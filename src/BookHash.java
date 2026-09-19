@@ -55,11 +55,7 @@ public class BookHash {
         if(directory.containsKey("Sense and Sensibility")) {
             directory.remove("Sense and Sensibility");
         }
-        System.out.println(directory);
-        // System.out.println();
-        // System.out.println(directory.get("Pride and Prejudice"));
-
-        
+        System.out.println(directory);       
     }
 
 
